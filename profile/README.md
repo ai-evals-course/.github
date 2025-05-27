@@ -1,4 +1,4 @@
-# [AI Evals for Engineers & PMs](bit.ly/evals-ai)
+# [AI Evals for Engineers & PMs](https://bit.ly/evals-ai)
 
 **Learn practical, data-driven methods to quickly evaluate and improve AI applications.**
 
@@ -34,4 +34,4 @@
 * Teams aiming to automate and trust their AI testing.
 
 ---
-[Link to course](bit.ly/evals-ai)
+[Link to course](https://bit.ly/evals-ai)
