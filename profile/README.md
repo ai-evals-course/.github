@@ -1,4 +1,4 @@
-# [AI Evals for Engineers & PMs](https://maven.com/parlance-labs/evals)
+# [AI Evals for Engineers & PMs](bit.ly/evals-ai)
 
 **Learn practical, data-driven methods to quickly evaluate and improve AI applications.**
 
@@ -32,3 +32,6 @@
 * Engineers & technical PMs building AI products.
 * Developers seeking rigorous evaluation beyond basic prompt tuning.
 * Teams aiming to automate and trust their AI testing.
+
+---
+[Link to course](bit.ly/evals-ai)
