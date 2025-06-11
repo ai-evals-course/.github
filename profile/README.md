@@ -34,4 +34,4 @@
 * Teams aiming to automate and trust their AI testing.
 
 ---
-[Link to course](https://bit.ly/evals-ai)
+## [Link to course](https://maven.com/parlance-labs/evals)
