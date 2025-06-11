@@ -33,5 +33,4 @@
 * Developers seeking rigorous evaluation beyond basic prompt tuning.
 * Teams aiming to automate and trust their AI testing.
 
----
-## [Link to course](https://maven.com/parlance-labs/evals)
+## 👉 [Link to course](https://maven.com/parlance-labs/evals) 👈
